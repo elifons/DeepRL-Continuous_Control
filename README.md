@@ -8,7 +8,7 @@
 
 ### Introduction
 
-The continuous control project works with the [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment. In this environment, a double-jointed arm can move to target locations.
+The continuous control project works with the [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment. In this environment, a double-jointed arm can move to target locations. The baseline of the code to solve the problem was provided by Udacity in their repository: https://github.com/udacity/deep-reinforcement-learning.git
 
 ![Trained Agent][image1]
 
